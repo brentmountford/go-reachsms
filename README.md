@@ -40,3 +40,7 @@ func main() {
 
 ```
 
+## Documentation
+https://godoc.org/github.com/brentmountford/go-reachsms
+
+
